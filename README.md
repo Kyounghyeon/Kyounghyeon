@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm @Kyonghyeon
+### 👋 Hi there, I'm @Kyuounghyeon
 
 Undergraduate student in **Sungkyunkwan university** <br>
 Major in **Statistics** <br>
