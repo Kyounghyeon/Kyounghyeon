@@ -16,11 +16,11 @@ Like **music**🎧 and **guitar**🎸 <br>
 - Introdction to Statistical Computation
 - Mathematical Statistics
 - Introduction to Regression Analysis
-- Statistical Data Mining (current)
-- Analysis (current)
-- Biostatistics (current)
-- Large Data Management and Visualization (current)
-- Design of Experiment (current)
+- Statistical Data Mining 
+- Analysis 
+- Biostatistics 
+- Large Data Management and Visualization 
+- Design of Experiment 
 
 
 <!---
