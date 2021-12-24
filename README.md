@@ -16,28 +16,28 @@ Major in **Statistics** and **Data Analytics** <br>
 ### UNDERGRADUATE
 
 **2018-1**
-> Introduction to Statistics
-> Matrix Algebra
-> Calculus
-> Introdction to Statistical Programming
+> Introduction to Statistics  
+> Matrix Algebra  
+> Calculus  
+> Introdction to Statistical Programming  
 
 **2018-2**
-> Introdction to Statistical Computation
-> Mathematical Statistics
-> Introduction to Regression Analysis
+> Introdction to Statistical Computation  
+> Mathematical Statistics  
+> Introduction to Regression Analysis  
 
 **2021-1**
-> Statistical Data Mining 
-> Analysis 
-> Biostatistics 
-> Large Data Management and Visualization 
-> Design of Experiment 
+> Statistical Data Mining   
+> Analysis   
+> Biostatistics   
+> Large Data Management and Visualization   
+> Design of Experiment   
 
 **2021-2**
-> Introduction to Database
-> Introduction to Deeplearning
-> Introduction to Stochastic Process
-> Statistical Modelling and Machine Learning
+> Introduction to Database  
+> Introduction to Deeplearning  
+> Introduction to Stochastic Process  
+> Statistical Modelling and Machine Learning  
 
 
 ## 
