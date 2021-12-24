@@ -1,10 +1,9 @@
-### 👋 Hi there, I'm @Kyuounghyeon
+#### 👋 Hi there, I'm @Kyuounghyeon
 
 Undergraduate student in **Sungkyunkwan university** <br>
-Major in **Statistics** <br>
-Like **music**🎧 and **guitar**🎸 <br>
+Major in **Statistics** and **Data Analytics** <br>
 
-#### Tech
+## Techs
 
 <p align="left">
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
@@ -13,20 +12,35 @@ Like **music**🎧 and **guitar**🎸 <br>
 </p>
 
 
-#### COURSEWORK 
-##### UNDERGRADUATE
+## COURSEWORK 
+### UNDERGRADUATE
+
+`2018-1`
 - Introduction to Statistics
 - Matrix Algebra
 - Calculus
 - Introdction to Statistical Programming
+
+`2018-2`
 - Introdction to Statistical Computation
 - Mathematical Statistics
 - Introduction to Regression Analysis
+
+`2021-1`
 - Statistical Data Mining 
 - Analysis 
 - Biostatistics 
 - Large Data Management and Visualization 
 - Design of Experiment 
+
+`2021-2`
+- Introduction to Database
+- Introduction to Deeplearning
+- Introduction to Stochastic Process
+- Statistical Modelling and Machine Learning
+
+
+## 
 
 
 <!---
