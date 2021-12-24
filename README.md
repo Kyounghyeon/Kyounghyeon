@@ -3,7 +3,7 @@
 Undergraduate student in **Sungkyunkwan university** <br>
 Major in **Statistics** and **Data Analytics** <br>
 
-## Techs
+## Techs 🛠
 
 <p align="left">
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
@@ -12,7 +12,7 @@ Major in **Statistics** and **Data Analytics** <br>
 </p>
 
 
-## COURSEWORK 
+## COURSEWORK 📖
 ### UNDERGRADUATE
 
 **2018-1**
